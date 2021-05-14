@@ -1,4 +1,4 @@
-### Hi there 👋I'm Error
+### Hi there 😄 I'm Error
 
 <!--
 **Android-Jester/Android-Jester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Android-Jester's GitHub stats](https://github-readme-stats.vercel.app/api?username=Android-Jester&count_private=true&theme=cobalt&show_icons=true&title_color=blue)](https://lk-readme-stats.vercel.app/)
+-->
+
+[![Android-Jester' stats](https://github-readme-stats.vercel.app/api?username=Android-Jester&show_icons=true&title_color=blue&count_private=true)](https://lk-readme-stats.vercel.app/)
 <a href="https://lk-readme-stats.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Jester&layout=compact&hide=html&theme=cobalt&title_color=blue">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Jester&layout=compact&hide=html&theme=vue&title_color=blue&count_private=true">
 </a>
