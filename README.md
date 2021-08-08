@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Android-Jester' stats](https://github-readme-stats.vercel.app/api?username=Android-Jester&show_icons=true&title_color=blue&count_private=true)](https://lk-readme-stats.vercel.app/)
 <a href="https://lk-readme-stats.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Jester&layout=compact&hide=html&theme=vue&title_color=blue&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Jester&hide=html&theme=vue&title_color=blue&count_private=true">
 </a>
