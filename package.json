@@ -1,0 +1,16 @@
+{
+  "name": "Android-Jester",
+  "version": "1.0.0",
+  "description": "Just a normal github readme",
+  "main": "index.js",
+  "repository": "https://github.com/Android-Jester/Android-Jester",
+  "author": "Kwadwo Adjei Duah <duah14@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/mustache": "^4.2.1",
+    "@types/node": "^18.11.0"
+  }
+}
