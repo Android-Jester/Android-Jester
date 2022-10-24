@@ -25,10 +25,6 @@
 
 # Tools I Normally Use
 <div>
-   <img alt="Lua" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge">
-
-  
-
 <img align="left" alt="Android Studio" width="50px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"/>
 
 <img align="left" alt="Android" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
