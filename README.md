@@ -1,5 +1,3 @@
-
-
   <h3>Hi there I'm <a href="https://github.com/Android-Jester">Jester</a>👋  </h3>
   <p>I am your average lazy programmer☕☕</p>
 
