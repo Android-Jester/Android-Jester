@@ -45,6 +45,7 @@
 
 
 [![Android-Jester' stats](https://github-readme-stats.vercel.app/api?username=Android-Jester&show_icons=true&theme=tokyonight&title_color=blue&scount_private=true)](https://lk-readme-stats.vercel.app/)
+<br/>
 <a href="https://lk-readme-stats.vercel.app">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Jester&hide=html&theme=tokyonight&title_color=blue&count_private=true&layout=compact">
 </a>
