@@ -1,69 +1,43 @@
-  <h3>Hi there I'm <a href="https://github.com/Android-Jester">Jester</a>👋  </h3>
-  <p>I am your average lazy programmer☕☕</p>
+# Hi there I'm <a href="https://github.com/Android-Jester">Jester</a>👋  
+  <p>Just a guy learning anything I can get my hands on</p>
 
-  <p>
-    <h2>Languages</h2>
-  </p>
+## Languages I have mastered (sort of)
+   ![Kotlin](https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin)
 
-   ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=ffdd54)
+   ![Dart](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart)
+## Languages I am learning
+![C](https://img.shields.io/badge/c-orange?style=for-the-badge&logo=c)
 
-  ![Kotlin](https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin)
+![C++](https://img.shields.io/badge/c++-orange?style=for-the-badge&logo=c)
 
-  ![Dart](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart)
+![Rust](https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust)
+<br/>
 
-  ![Lua](https://img.shields.io/badge/lua-informational?style=for-the-badge&logo=dart)
-
-  ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java)
-
-  <br>
-
-
-
-
-
-<br />
-
-# Tools I Normally Use
+## Tools and Frameworks I Normally Use
 <div>
+
 <img align="left" alt="Android Studio" width="50px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"/>
 
-<img align="left" alt="Android" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+<img align="left" alt="Dart" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 
-<img align="left" alt="Android" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
-<img align="left" alt="Android" width="50px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" />
+<img align="left" alt="Android SDK" width="50px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" />
 </div>
 <br /><br /><br /><br />
 
-# Languages and Frameworks I am currently Learning
+## Languages and Frameworks I am currently Learning
+<br/>
 <div>
 <img align="left" alt="Rust" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /> 
-
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </div>
 <br/>
 <br/>
 <br/>
 <br/>
 
-<!--
-**Android-Jester/Android-Jester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Android-Jester Streak](https://streak-stats.demolab.com?user=Android-Jester&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Android-Jester&theme=material-palenight&hide_border=true&border_radius=20&date_format=%5BY%20%5DM%20j&fire=EB5454&currStreakNum=EB5454)](https://git.io/streak-stats)
 <br/>
 <br/>
 <br/>
@@ -75,13 +49,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Jester&hide=html&theme=tokyonight&title_color=blue&count_private=true&layout=compact">
 </a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## ❤ Views and Followers
 <!-- <a href="https://github.com/Sami64/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Android-Jester">
 </a> -->
+<br/>
 <a href="https://github.com/Sami64?tab=followers"><img src="https://img.shields.io/github/followers/Android-Jester?label=Followers&style=social" alt="GitHub Badge"></a>
