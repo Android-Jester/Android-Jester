@@ -1,4 +1,4 @@
-# Hi there I'm <a href="https://github.com/Android-Jester">Jester</a>👋  
+# Hi there I'm <a href="https://github.com/Android-Jester">Android-Jester</a> 👋  
   <p>Just a guy learning anything I can get my hands on</p>
 
 ## Languages I have mastered (sort of)
@@ -7,8 +7,6 @@
    ![Dart](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart)
 ## Languages I am learning
 ![C](https://img.shields.io/badge/c-orange?style=for-the-badge&logo=c)
-
-![C++](https://img.shields.io/badge/c++-orange?style=for-the-badge&logo=c)
 
 ![Rust](https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust)
 <br/>
