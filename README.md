@@ -38,6 +38,8 @@ Just a lazy guy on the web
   <img src="https://github-readme-stats.vercel.app/api?username=Android-Jester&show_icons=true&theme=nord&title_color=blue&scount_private=true" alt="Github Status"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Jester&hide=html&theme=nord&title_color=blue&count_private=true&layout=compact" alt="Top languages">
 </p>
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
