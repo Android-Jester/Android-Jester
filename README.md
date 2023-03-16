@@ -41,6 +41,14 @@ Just a lazy guy on the web
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 18 July 2022 - To: 15 March 2023
+
+Kotlin                 86 hrs 9 mins   █████████▒░░░░░░░░░░░░░░░   36.90 %
+Other                  34 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- ![GitHub Streak][Streak]
