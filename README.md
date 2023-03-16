@@ -14,7 +14,7 @@ androidJester
 
 ## IDEs
 ![Android Studio][Android Studio]
-![Intellij IDEA][Android Studio]
+<!-- ![Intellij IDEA][Android Studio] -->
 ![VSCode][VSCode]
 ![Neovim][Neovim]
 
