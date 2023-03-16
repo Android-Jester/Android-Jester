@@ -10,9 +10,9 @@ Just a lazy guy on the web
 ## LANGUAGES
 <p align=center>
   <img src="https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust" alt="Rust">
-  <img src=" https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/c-orange?style=for-the-badge&logo=c" alt="C">
-  <img src=" https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart" alt="Dart">
+  <img src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart" alt="Dart">
   <img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin" alt="Kotlin">
 </p>
 
