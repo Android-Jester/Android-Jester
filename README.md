@@ -13,8 +13,8 @@ androidJester
 <br/>
 
 ## IDEs
-![Android Studio][Android Studio]
 <!-- ![Intellij IDEA][Android Studio] -->
+![Android Studio][Android Studio]
 ![VSCode][VSCode]
 ![Neovim][Neovim]
 
