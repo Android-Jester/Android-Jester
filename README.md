@@ -20,17 +20,12 @@ androidJester
 
 
 # My lazy statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=Android-Jester&theme=material-palenight&hide_border=true&border_radius=20&date_format=%5BY%20%5DM%20j&fire=EB5454&currStreakNum=EB5454)](https://git.io/streak-stats)
+![GitHub Streak][Streak]
+![Android-Jester' stats][Status]
+![Top Languages][Top Langs]
 
-[![Android-Jester' stats](https://github-readme-stats.vercel.app/api?username=Android-Jester&show_icons=true&theme=tokyonight&title_color=blue&scount_private=true)](https://lk-readme-stats.vercel.app/)
-
-<br/>
-<a href="https://lk-readme-stats.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Jester&hide=html&theme=tokyonight&title_color=blue&count_private=true&layout=compact">
-</a>
-
-## ❤ Views and Followers
-![Github Followers][Github]
+## Views and Followers
+![Github Followers][Followers] <br>
 ![Github Views][Views]
 
 
@@ -48,7 +43,11 @@ androidJester
 [Neovim]: https://img.shields.io/badge/neovim-purple?style=for-the-badge&logo=neovim
 
 <!-- Socials -->
-[Github]: https://img.shields.io/github/followers/Android-Jester?label=Followers&style=social
+[Followers]: https://img.shields.io/github/followers/Android-Jester?label=Followers&style=for-the-badge
 [Youtube]: https://img.shields.io/github/followers/Android-Jester?label=Followers&style=social
 [Views]: https://komarev.com/ghpvc/?username=Android-Jester&style=for-the-badge&label=Views&color=ff69b4
-<!-- [Github]: https://img.shields.io/github/followers/Android-Jester?label=Followers&style=social -->
+
+<!-- Statistics -->
+[Status]: https://github-readme-stats.vercel.app/api?username=Android-Jester&show_icons=true&theme=nord&title_color=blue&scount_private=true
+[Streak]: https://streak-stats.demolab.com?user=Android-Jester&theme=nord&hide_border=true&border_radius=20&date_format=%5BY%20%5DM%20j&fire=EB5454&currStreakNum=EB5454
+[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Jester&hide=html&theme=nord&title_color=blue&count_private=true&layout=compact
