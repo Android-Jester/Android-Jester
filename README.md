@@ -24,7 +24,7 @@ Just a lazy guy on the web
 ![Python][Python] -->
 <br/>
 
-## IDEs
+## Most Used IDEs
 <!-- ![Intellij IDEA][Android Studio] -->
 <p align=center>
   <img src="https://img.shields.io/badge/android%20studio-green?style=for-the-badge&logo=androidstudio" alt="Android Studio">
