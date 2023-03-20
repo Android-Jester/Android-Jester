@@ -43,10 +43,10 @@ Just a lazy guy on the web
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 July 2022 - To: 17 March 2023
+From: 18 July 2022 - To: 18 March 2023
 
-Kotlin                 86 hrs 9 mins   █████████░░░░░░░░░░░░░░░░   35.92 %
-Other                  35 hrs 12 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Kotlin                 86 hrs 9 mins   █████████░░░░░░░░░░░░░░░░   35.50 %
+Other                  35 hrs 47 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
 ```
 
 <!--END_SECTION:waka-->
