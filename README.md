@@ -1,8 +1,8 @@
 # INTRODUCTION
-```
+```bash
 Android-Jester
 ---------------
-Just a lazy guy on the web
+Someone hoping to be able to learn and understand something someday
 
 ⚡ 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜: Android Development, Flutter App Development, Low level technology(sort of)
 ```
