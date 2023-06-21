@@ -40,16 +40,6 @@ Just a lazy guy on the web
 </p>
 
 
-<!--START_SECTION:waka-->
-
-```text
-From: 18 July 2022 - To: 26 March 2023
-
-Kotlin                 86 hrs 9 mins   ████████▒░░░░░░░░░░░░░░░░   33.91 %
-Other                  36 hrs 33 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-```
-
-<!--END_SECTION:waka-->
 
 <!-- ![GitHub Streak][Streak]
 ![Android-Jester' stats][Status]
