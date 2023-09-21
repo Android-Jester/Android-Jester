@@ -15,21 +15,29 @@ Learning new things everyday, though I don't understand much, I will get through
 ⚡ 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜: App Development, Operating Systems Development
 ```
 
-## LANGUAGES Learnt(Almost there)
-<!-- ### Low level Systems(Sometimes backend events) -->
-![C] ![C++] [![Zig]](https://ziglang.org) [![Go]](https://go.dev) <!-- ### Web and Mobile --> [![Dart]](https://dart.dev) [![TypeScript]](https://www.typescriptlang.org) [![C#]](https://learn.microsoft.com/en-us/dotnet/csharp) [![Kotlin]](https://kotlinlang.org) <!-- ### Scripting --> [![Python]](https://www.python.org) [![Nim]](https://nim-lang.org) ![Bash] ![SQL]
+## LANGUAGES 
+### Mastered(Intermediate)
+[![Dart]](https://dart.dev) [![Go]](https://go.dev) [![Python]](https://www.python.org)
+### Currently Learning
+[![C#]](https://learn.microsoft.com/en-us/dotnet/csharp) [![Kotlin]](https://kotlinlang.org) ![C] 
+### About to start
+[![Nim]](https://nim-lang.org) ![C++] [![Zig]](https://ziglang.org) ![Bash] ![SQL] [![TypeScript]](https://www.typescriptlang.org)
 
 
 # Tools I like to use
 ## Frameworks and Databases
-<!-- ## Web -->
-<!-- ### Frontend -->
-[![SolidJS]](https://www.solidjs.com) [![Angular]](https://angular.io) <!-- ### Backend -->  [![aspnet]](https://learn.microsoft.com/en-us/aspnet/core) [![dotnet]](https://dotnet.microsoft.com) [![Bun]](https://bun.sh) [![Node]](https://nodejs.org) <!-- ## Mobile --> [![Flutter]](https://flutter.dev) [![Android]](https://developer.android.com) [![KMM]](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html) <!-- ## Database --> [![PostgreSQL]](https://www.postgresql.org) [![MariaDB]](https://mariadb.com) [![MongoDB]](https://www.mongodb.com) <!-- ## Backend --> [![Supabase]](https://supabase.com) [![leptos]](https://leptos.dev) [![django]]() ![meson]
 
-<!-- ## Software -->
-<!-- ![Bun] ![Node] -->
+### Mastered(Intermediate)
+[![Flutter]](https://flutter.dev) 
 
-## Most Used IDEs
+### Currently Learning
+[![Angular]](https://angular.io) [![aspnet]](https://learn.microsoft.com/en-us/aspnet/core) [![dotnet]](https://dotnet.microsoft.com) [![Bun]](https://bun.sh) [![Node]](https://nodejs.org)
+
+### About to learn
+[![SolidJS]](https://www.solidjs.com) [![Android]](https://developer.android.com) [![KMM]](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html) [![PostgreSQL]](https://www.postgresql.org) [![MariaDB]](https://mariadb.com) [![MongoDB]](https://www.mongodb.com) [![Supabase]](https://supabase.com) [![django]]() ![meson]
+
+
+## Most Used Editors
 [![Android Studio]](https://developer.android.com/studio) [![VSCode]](https://code.visualstudio.com) [![Neovim]](https://neovim.io)
 
 # My lazy statistics
