@@ -17,14 +17,14 @@ Learning new things everyday, though I don't understand much, I will get through
 
 ## LANGUAGES Learnt(Almost there)
 <!-- ### Low level Systems(Sometimes backend events) -->
-![C] ![C++] [![Rust]](https://www.rust-lang.org) [![Zig]](https://ziglang.org) [![Go]](https://go.dev) <!-- ### Web and Mobile --> [![Dart]](https://dart.dev) [![TypeScript]](https://www.typescriptlang.org) [![C#]](https://learn.microsoft.com/en-us/dotnet/csharp) [![Kotlin]](https://kotlinlang.org) <!-- ### Scripting --> [![Python]](https://www.python.org) [![Nim]](https://nim-lang.org) ![Bash] ![SQL]
+![C] ![C++] [![Zig]](https://ziglang.org) [![Go]](https://go.dev) <!-- ### Web and Mobile --> [![Dart]](https://dart.dev) [![TypeScript]](https://www.typescriptlang.org) [![C#]](https://learn.microsoft.com/en-us/dotnet/csharp) [![Kotlin]](https://kotlinlang.org) <!-- ### Scripting --> [![Python]](https://www.python.org) [![Nim]](https://nim-lang.org) ![Bash] ![SQL]
 
 
 # Tools I like to use
 ## Frameworks and Databases
 <!-- ## Web -->
 <!-- ### Frontend -->
-[![SolidJS]](https://www.solidjs.com) [![Angular]](https://angular.io) <!-- ### Backend --> [![Axum]](https://github.com/tokio-rs/axum) [![Actix]](https://actix.rs) [![aspnet]](https://learn.microsoft.com/en-us/aspnet/core) [![dotnet]](https://dotnet.microsoft.com) [![Bun]](https://bun.sh) [![Node]](https://nodejs.org) <!-- ## Mobile --> [![Flutter]](https://flutter.dev) [![Android]](https://developer.android.com) [![KMM]](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html) <!-- ## Database --> [![PostgreSQL]](https://www.postgresql.org) [![MariaDB]](https://mariadb.com) [![MongoDB]](https://www.mongodb.com) <!-- ## Backend --> [![Supabase]](https://supabase.com) [![leptos]](https://leptos.dev) [![django]]() ![meson]
+[![SolidJS]](https://www.solidjs.com) [![Angular]](https://angular.io) <!-- ### Backend -->  [![aspnet]](https://learn.microsoft.com/en-us/aspnet/core) [![dotnet]](https://dotnet.microsoft.com) [![Bun]](https://bun.sh) [![Node]](https://nodejs.org) <!-- ## Mobile --> [![Flutter]](https://flutter.dev) [![Android]](https://developer.android.com) [![KMM]](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html) <!-- ## Database --> [![PostgreSQL]](https://www.postgresql.org) [![MariaDB]](https://mariadb.com) [![MongoDB]](https://www.mongodb.com) <!-- ## Backend --> [![Supabase]](https://supabase.com) [![leptos]](https://leptos.dev) [![django]]() ![meson]
 
 <!-- ## Software -->
 <!-- ![Bun] ![Node] -->
