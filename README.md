@@ -15,11 +15,11 @@ Learning new things everyday, though I don't understand much, I will get through
 ⚡ 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜: App Development, Operating Systems Development
 ```
 
-## LANGUAGES 
+## LANGUAGES
 ### Mastered(Intermediate)
-[![Dart]](https://dart.dev) [![Go]](https://go.dev) [![Python]](https://www.python.org)
+[![Dart]](https://dart.dev) [![Go]](https://go.dev) [![Python]](https://www.python.org) [[!Rust]](https://rustlang.org)
 ### Currently Learning
-[![C#]](https://learn.microsoft.com/en-us/dotnet/csharp) [![Kotlin]](https://kotlinlang.org) ![C] 
+[![C#]](https://learn.microsoft.com/en-us/dotnet/csharp) [![Kotlin]](https://kotlinlang.org) ![C]
 ### About to start
 [![Nim]](https://nim-lang.org) ![C++] [![Zig]](https://ziglang.org) ![Bash] ![SQL] [![TypeScript]](https://www.typescriptlang.org)
 
@@ -28,7 +28,7 @@ Learning new things everyday, though I don't understand much, I will get through
 ## Frameworks and Databases
 
 ### Mastered(Intermediate)
-[![Flutter]](https://flutter.dev) 
+[![Flutter]](https://flutter.dev)
 
 ### Currently Learning
 [![Angular]](https://angular.io) [![aspnet]](https://learn.microsoft.com/en-us/aspnet/core) [![dotnet]](https://dotnet.microsoft.com) [![Bun]](https://bun.sh) [![Node]](https://nodejs.org)
@@ -93,7 +93,7 @@ Learning new things everyday, though I don't understand much, I will get through
 [Flutter]: https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&color=%2302569B
 [Android]: https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&color=%233DDC84&logoColor=%233DA000
 [KMM]: https://img.shields.io/badge/KMM-blue?style=for-the-badge&logo=jetpackcompose&color=%234285F4&logoColor=%23428000
-[MariaDB]: https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb&color=%23003545 
+[MariaDB]: https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb&color=%23003545
 [MongoDB]: https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&color=%2347A248&logoColor=%23470000
 [Supabase]: https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&color=%233FCF8E&logoColor=%233FC000
 [Leptos]: https://img.shields.io/badge/Leptos-red?style=for-the-badge&logo=leptos&color=%23EF3939&logoColor=%23EFA000
