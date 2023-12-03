@@ -17,7 +17,7 @@ Learning new things everyday, though I don't understand much, I will get through
 
 ## LANGUAGES
 ### Mastered(Intermediate)
-[![Dart]](https://dart.dev) [![Go]](https://go.dev) [![Python]](https://www.python.org) [[!Rust]](https://rustlang.org)
+[![Dart]](https://dart.dev) [![Go]](https://go.dev) [![Python]](https://www.python.org) [![Rust]](https://rustlang.org)
 ### Currently Learning
 [![C#]](https://learn.microsoft.com/en-us/dotnet/csharp) [![Kotlin]](https://kotlinlang.org) ![C]
 ### About to start
