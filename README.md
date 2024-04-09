@@ -19,9 +19,9 @@ Learning new things everyday, though I don't understand much, I will get through
 ### Mastered(Intermediate)
 [![Dart]](https://dart.dev) [![Go]](https://go.dev) [![Python]](https://www.python.org) [![Rust]](https://rustlang.org)
 ### Currently Learning
-[![C#]](https://learn.microsoft.com/en-us/dotnet/csharp) [![Kotlin]](https://kotlinlang.org) ![C]
+![C++] [![Zig]](https://ziglang.org) ![Bash] [![C#]](https://learn.microsoft.com/en-us/dotnet/csharp) [![Kotlin]](https://kotlinlang.org) ![C]
 ### About to start
-[![Nim]](https://nim-lang.org) ![C++] [![Zig]](https://ziglang.org) ![Bash] ![SQL] [![TypeScript]](https://www.typescriptlang.org)
+![SQL] [![TypeScript]](https://www.typescriptlang.org)
 
 
 # Tools I like to use
@@ -31,14 +31,14 @@ Learning new things everyday, though I don't understand much, I will get through
 [![Flutter]](https://flutter.dev)
 
 ### Currently Learning
-[![Angular]](https://angular.io) [![aspnet]](https://learn.microsoft.com/en-us/aspnet/core) [![dotnet]](https://dotnet.microsoft.com) [![Bun]](https://bun.sh) [![Node]](https://nodejs.org)
+[![aspnet]](https://learn.microsoft.com/en-us/aspnet/core) [![dotnet]](https://dotnet.microsoft.com) [![Bun]](https://bun.sh)
 
 ### About to learn
-[![SolidJS]](https://www.solidjs.com) [![Android]](https://developer.android.com) [![KMM]](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html) [![PostgreSQL]](https://www.postgresql.org) [![MariaDB]](https://mariadb.com) [![MongoDB]](https://www.mongodb.com) [![Supabase]](https://supabase.com) [![django]]() ![meson]
+[![SolidJS]](https://www.solidjs.com) [![Android]](https://developer.android.com) [![KMM]](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html) [![PostgreSQL]](https://www.postgresql.org) [![MariaDB]](https://mariadb.com) ![meson]
 
 
 ## Most Used Editors
-[![Android Studio]](https://developer.android.com/studio) [![VSCode]](https://code.visualstudio.com) [![Neovim]](https://neovim.io)
+[![Android Studio]](https://developer.android.com/studio) [![VSCode]](https://code.visualstudio.com) [![Neovim]](https://neovim.io) [![Emacs]]()
 
 # My lazy statistics
 ![Status]  ![Streak]  ![Top Langs]
@@ -69,6 +69,7 @@ Learning new things everyday, though I don't understand much, I will get through
 [Android Studio]: https://img.shields.io/badge/android%20studio-green?style=for-the-badge&logo=androidstudio&color=%233DDC84&logoColor=%233DA000
 [VSCode]: https://img.shields.io/badge/vscode-blue.svg?logo=visual-studio-code&style=for-the-badge&color=%23007ACC
 [Neovim]: https://img.shields.io/badge/neovim-green?style=for-the-badge&logo=neovim&color=%2357A143&logoColor=%23570000
+[Emacs]: https://img.shields.io/badge/emacs-green?style=for-the-badge&logo=emacs&color=%2357A143&logoColor=%23570000
 
 <!-- Socials -->
 [Followers]: https://img.shields.io/github/followers/Android-Jester?label=Followers&style=for-the-badge
@@ -83,7 +84,6 @@ Learning new things everyday, though I don't understand much, I will get through
 <!-- Other Links -->
 <!-- Frontend -->
 [SolidJS]: https://img.shields.io/badge/solid-blue?style=for-the-badge&logo=solid&color=%232C4F7C
-[Angular]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&color=%23DD0031
 
 <!-- Backend -->
 [Axum]: https://img.shields.io/badge/Axum-black?style=for-the-badge&color=%2300ADD8
