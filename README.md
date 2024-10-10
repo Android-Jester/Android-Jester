@@ -1,7 +1,7 @@
 # INTRODUCTION
 
 <div align="center">
-<a href="https://android-jester.github.io"><img src="https://avatars.githubusercontent.com/u/46320020?v=4" alt="Personal Site" style="width:210px;height:210px;"></a>
+<img src="https://avatars.githubusercontent.com/u/46320020?v=4" alt="Personal Site" style="width:210px;height:210px;">
 </div>
 
 <br>
